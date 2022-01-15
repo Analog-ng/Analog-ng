@@ -1,7 +1,7 @@
 <img src="https://github.com/Analog-ng/Analog-ng/blob/main/myBanner.png" alt="my banner image" width="1200">
 <h3 align="center">I'm a passionate Front-End and WordPress Developer, working remotely on projects with clients for over two years. I have diverse set of skills in HTML, CSS, JavaScript, PHP, WordPress, various frameworks and libraries like SCSS, Bootstrap, Tailwind and React </h3>
 
-<h3 align="center">Connect with me:</h3>
+<h4 align="center">Connect with me:</h4>
 <p align="center">
 <a href="https://twitter.com/bamise_the_1st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bamise_the_1st" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/olatunji-oluwabamise-12345abc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/olatunji-oluwabamise-12345abc" height="30" width="40" /></a>
