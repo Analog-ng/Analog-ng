@@ -1,6 +1,5 @@
 <h1 align="center">Hi I'm Oluwabamise Olatunji</h1>
-[![MasterHead](https://ibb.co/k0kzbx3)]
-<img src="https://ibb.co/k0kzbx3" alt="my banner image" height="600">
+<img src="https://github.com/Analog-ng/Analog-ng/blob/main/myBanner.png" alt="my banner image" height="600">
 <h3 align="center">A passionate frontend and wordpress developer from Nigeria</h3>
 
 - 🌱 I’m currently learning **React**
