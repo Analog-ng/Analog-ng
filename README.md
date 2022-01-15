@@ -13,10 +13,10 @@
 
 <h4 align="left">Examples of Projects:</h4>
 <p align="left">
-<img src="https://github.com/Analog-ng/Analog-ng/blob/main/project.jpg" alt="my banner image" width="250" height="250">
-<img src="https://github.com/Analog-ng/Analog-ng/blob/main/project.jpg" alt="my banner image" width="250" height="250">
-<img src="https://github.com/Analog-ng/Analog-ng/blob/main/project.jpg" alt="my banner image" width="250" height="250">
-<img src="https://github.com/Analog-ng/Analog-ng/blob/main/project.jpg" alt="my banner image" width="250" height="250">
+<img src="https://github.com/Analog-ng/Analog-ng/blob/main/project.jpg" alt="my banner image" width="240" height="240">
+<img src="https://github.com/Analog-ng/Analog-ng/blob/main/project8.jpg" alt="my banner image" width="240" height="240">
+<img src="https://github.com/Analog-ng/Analog-ng/blob/main/project7.jpg" alt="my banner image" width="240" height="240">
+<img src="https://github.com/Analog-ng/Analog-ng/blob/main/project1.jpg" alt="my banner image" width="240" height="240">
   
 </p>
 
