@@ -12,10 +12,13 @@
 </p>
 
 <h4 align="left">Examples of Projects:</h4>
+<p align="left">
 <img src="https://github.com/Analog-ng/Analog-ng/blob/main/project.jpg" alt="my banner image" width="250" height="250">
 <img src="https://github.com/Analog-ng/Analog-ng/blob/main/project.jpg" alt="my banner image" width="250" height="250">
 <img src="https://github.com/Analog-ng/Analog-ng/blob/main/project.jpg" alt="my banner image" width="250" height="250">
 <img src="https://github.com/Analog-ng/Analog-ng/blob/main/project.jpg" alt="my banner image" width="250" height="250">
+  
+</p>
 
 
 <h4 align="left">Skills and Tools:</h4>
