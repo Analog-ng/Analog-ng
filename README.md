@@ -1,4 +1,4 @@
-<h1 align="center">I'm Oluwabamise Olatunji</h1>
+<h1 align="center">Hi I'm Oluwabamise Olatunji</h1>
 <h3 align="center">A passionate frontend and wordpress developer from Nigeria</h3>
 
 - 🌱 I’m currently learning **React**
