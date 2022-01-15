@@ -13,6 +13,9 @@
 
 <h4 align="left">Examples of Projects:</h4>
 <img src="https://github.com/Analog-ng/Analog-ng/blob/main/project.jpg" alt="my banner image" width="250" height="250">
+<img src="https://github.com/Analog-ng/Analog-ng/blob/main/project.jpg" alt="my banner image" width="250" height="250">
+<img src="https://github.com/Analog-ng/Analog-ng/blob/main/project.jpg" alt="my banner image" width="250" height="250">
+<img src="https://github.com/Analog-ng/Analog-ng/blob/main/project.jpg" alt="my banner image" width="250" height="250">
 
 
 <h4 align="left">Skills and Tools:</h4>
