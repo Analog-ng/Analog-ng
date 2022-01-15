@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Oluwabamise Olatunji</h1>
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+<img src="https://ibb.co/k0kzbx3" alt="my banner image" width="500" height="600">
 <h3 align="center">A passionate frontend and wordpress developer from Nigeria</h3>
 
 - 🌱 I’m currently learning **React**
