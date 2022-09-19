@@ -1,5 +1,5 @@
 <img src="https://github.com/Analog-ng/Analog-ng/blob/main/myBanner.png" alt="my banner image" width="1200">
-<h3 align="center">I'm a passionate Front-End and WordPress Developer, working remotely on projects with clients for over two years. I have a diverse set of skills in HTML, CSS, JavaScript, PHP, WordPress, various frameworks and libraries like SCSS, Bootstrap, Tailwind, and React </h3>
+<h3 align="center">I'm a passionate Front-End and WordPress Developer, working remotely on projects with clients for over the years. I have a diverse skills in HTML, CSS, JavaScript, PHP, WordPress, various frameworks and libraries like SCSS, Bootstrap, Tailwind, and React </h3>
 
 <h4 align="center">Connect with me:</h4>
 <p align="center">
