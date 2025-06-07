@@ -1,5 +1,5 @@
 <img src="https://github.com/Analog-ng/Analog-ng/blob/main/myBanner.png" alt="my banner image" width="1200">
-<h3 align="center">"Building the future, one line of code at a time - MERN Stack Developer and Web3 Enthusiast"</h3>
+<h3 align="center">"Building the future, one line of code at a time - Full Stack Developer and Web3 Enthusiast"</h3>
 
 <h4 align="center">Connect with me:</h4>
 <p align="center">
